@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JELAJAH DUNIA</title>
+</head>
+<body>
+    <header>
+        <h1>JELAJAH DUNIA BERSAMA [NAMA_ANDA]</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Rekomendasi Tempat Wisata</a></li>
+                <li><a href="#">Paket Wisata</a></li>
+                <li><a href="#">Event Terbaru</a></li>
+                <li><a href="#">Kontak</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <article>
+            <h2>1. Taman Laut Bunaken</h2>
+            <img src="./taman laut bunaken.jpg" alt="Taman Laut Bunaken" width="500">
+            <p>
+                Destinasi wisata di Indonesia yang populer di mancanegara selanjutnya adalah Taman Laut Bunaken yang berada di Teluk Manado.
+                Bunaken menjadi salah satu objek wisata di Indonesia yang mengundang decak kagum karena keindahan taman bawah lautnya yang sulit ditemukan di negara lain.
+                Berkunjung ke Taman Laut Bunaken, kamu akan menemukan keindahan kehidupan di dalam laut yang membuat mata kamu tidak bisa berhenti memandangnya.
+                Di dalam taman laut ini terdapat 13 jenis terumbu karang yang didominasi dengan bebatuan laut.
+            </p>
+            <p>
+                Selain itu, pemandangan yang paling menarik adalah adanya terumbu karang terjal vertikal yang menjulang ke bawah sedalam 25-50 meter. 
+                Tidak sampai di situ, mata kita akan dimanjakan dengan 91 jenis ikan yang ada di dalamnya.
+                Tidak heran kalau Taman Laut Bunaken menjadi salah satu destinasi bagi para wisatawan terutama para pecinta laut.
+                Apalagi tujuan wisata Indonesia favorit wisatawan asing ini menyediakan fasilitas untuk scuba diving dengan 20 titik penyelaman terbaik, 
+                di mana penyelam dapat kesempatan berenang di dasar laut dengan beragam biota laut yang menakjubkan.
+            </p>
+            <h4>Daftar Fasilitas di Taman Laut Bunaken</h4>
+            <p>
+                Apa saja fasilitas yang tersedia di Taman Laut Bunaken? Berikut fasilitas yang tersedia : <br>
+                1. Penginapan atau hotel <br> 
+                2. Tempat makan seafood dan minuman khas pantai <br> 
+                3. Penyewaan alat diving dan snorkeling <br>
+                4. Adanya instruktur selam dan tour guide 
+            </p>
+        </article>
+        <article>
+            <h2>2. Taman Nasional Way Kambas</h2>
+            <img src="./Taman Nasional Way Kambas.jpg" alt="Taman Nasional Way Kambas" width="500">
+            <p>
+                Taman Nasional Way Kambas (TNKW) Lampung ditetapkan sebagai kawasan Taman Warisan ASEAN (ASEAN Heritage Park) yang ke-36, pada tanggal 25 Juli 2016. 
+                Artinya, Taman Nasional Way Kambas ini menjadi Taman Warisan ASEAN ke-4 di Indonesia. Terletak di ujung selatan Sumatera atau 110 km dari Bandar Lampung, 
+                TNKW merupakan salah satu Taman Nasional pertama dan tertua di Indonesia. Taman Nasional ini menempati 1.300 km persegi dari hutan dataran rendah pantai 
+                sekitar Sungai Way Kambas di pantai timur Provinsi Lampung.
+            </p>
+            <p>
+                TNWK dikenal dengan konservasi gajah, karena selain menjadi tempat perlindungan bagi Gajah Sumatera yang berjumlah sekitar 200, taman nasional ini juga 
+                dikenal sebagai tempat latihan mereka. Way Kambas didirikan oleh pemerintah Belanda pada tahun 1937 sampai sekarang masih terjaga sebagai Taman Nasional.
+                Selain konservasi gajah, di sini juga terdapat konservasi badak sumatera dan ada fasilitas Rhino Sanctuary. Sayangnya untuk bisa dapat melihat Badak 
+                Sumatera ini, pengunjung harus punya izin khusus sebelumnya. Pengunjung atau wisatawan biasa tidak bisa melihat penangkaran alami badak sumatera ini.
+            </p>
+            <h4>Daftar Fasilitas di Taman Nasional Way Kambas</h4>
+            <p>
+                Fasilitas yang tersedia di Taman Nasional Way Kambas yaitu: <br>
+                1. Paket wisata Way Kambas Tour <br> 
+                2. Penginapan Way Kambas
+            </p>
+        </article>
+        <article>
+            <h2>3. Kepulauan Derawan</h2>
+            <img src="./Kepulauan Derawan.jpg" alt="Kepulauan Derawan" width="500">
+            <p>
+                Kepulauan Derawan adalah sebuah kepulauan yang berada di Kabupaten Berau, Kalimantan Timur. Di kepulauan ini terdapat sejumlah objek wisata bahari 
+                menawan, salah satunya Taman Bawah Laut yang diminati wisatawan mancanegara terutama para penyelam kelas dunia. Saat pertama kali menginjakan kaki 
+                disini, jangan heran bila kamu akan disambut dengan hamparan pasir putih yang mempesona. Warna airnya yang sangat jernih juga akan bikin kamu 
+                betah untuk berlama-lama di kawasan ini. Panorama alam ini menjadi sajian liburan utama bagi wisatawan dalam berkunjung
+            </p>
+            <p>
+                Faktor lain yang menjadi alasan mengapa kawasan ini wajib untuk dikunjungi, yaitu ekosistem bawah laut dan keasrian alam sekitarnya benar-benar 
+                masih sangat terjaga. Wajar jika banyak wisatawan yang datang berbondong-bondong ke tempat ini, baik wisatawan lokal maupun wisatawan internasional.
+                Pada tahun 2005 pemerintah telah mencoba mendaftarkan kawasan wisata ini ke UNESCO sebagai salah satu situs warisan dunia, bahkan sampai 
+                mendapat julukan sebagai “Pristine Island”.
+            </p>
+            <h4>Daftar Fasilitas di Kepulauan Derawan</h4>
+            <p>
+                Fasilitas yang tersedia di Pulau Derawan cukup lengkap yaitu: <br>
+                1. Penginapan apung <br> 
+                2. Restoran <br> 
+                3. Peralatan menyelam <br>
+                4. Speedboat 
+            </p>
+        </article>
+        <section>
+            <h2>Daftar paket wisata</h2>
+            <article>
+                <h3>1. Paket hemat</h3>
+                <img src="./paket hemat.webp" alt="paket wisata hemat" width="500">
+                <p>
+                    Ingin pergi liburan namun budget terbatas? Anda dapat memesan tiket pesawat dan kamar hotel sekaligus untuk mendapatkan harga yang lebih murah. 
+                    Dengan memesan keduanya dalam bentuk paket, perencanaan liburan Anda menjadi lebih praktis karena urusan selesai dalam satu waktu.
+                </p>
+                <h4>Berikut daftar fasilitas yang akan kamu dapatkan pada paket hemat</h4>
+                <p>
+                    Fasilitas yang tersedia yaitu: <br>
+                    1. Penginapan 4 hari 3 malam <br> 
+                    2. Konsumsi <br> 
+                    3. Tiket wisata<br>
+                    4. Kendaraan <br>
+                    5. Asuransi <br>
+                    6. Fast boat <br>
+                    Dapatkan semua fasilitas hanya dengan harga Rp3.999.000 saja!
+                </p>
+            </article>
+            <article>
+                <h3>2. Paket eksklusif</h3>
+                <img src="./paket eksklusif.webp" alt="paket wisata hemat" width="500">
+                <p>
+                    Bali adalah pulau yang sangat mempesona dengan keindahan alamnya dan sebagai tujuan utama wisata di Indonesia. Kehidupan kota yang dinamis, 
+                    penuh keteraturan dengan daya pesona alam yang luar biasa menjadikan Bali magnet wisata domestik maupun mancanegara. Bali juga terkenal 
+                    dengan iklimnya yang tropis dan panorama alam yang eksotik. Kami tawarkan Paket Wisata 5 Hari 4 Malam Spesial Ekslusif untuk mengisi liburan anda di Bali
+                </p>
+                <h4>Berikut daftar fasilitas yang akan kamu dapatkan pada paket eksklusif</h4>
+                <p>
+                    Fasilitas yang akan kamu dapatkan yaitu: <br>
+                    1. Airport transfer <br>
+                    2. Kalungan bunga & welcome drink saat kedatangan <br>
+                    3. Supir berpengalaman + BBM <br>
+                    4. Bali Guide <br>
+                    5. Air mineral selama tour <br>
+                    6. Tiket parkir <br>
+                    7. Free Wifi selama tour <br>
+                    8. Tiket masuk objek wisata <br>
+                    9. Beach Club Cruise : Penjemputan dari/ke Hotel, teh, kopi, juice, kue-kue, kolam renang, bola volly, makan siang BBQ, tour ke Desa + pemandu, 
+                    sea kayaks, banana boat, snorkling, area bermain anak-anak, kapal selam semi submarine dan loker. <br>
+                    10. Tiket Camel Safari selama 30 menit <br>
+                    11. Tiket pertunjukan Tari Kecak <br>
+                    12. Water Sport (Banana Boat,Parasailing, Jet Sky) <br>
+                    13. Makan pagi, siang dan malam sesuai program <br>
+                    14. Voucher menginap selama 4 malam di Hotel (sesuai pilihan) <br>
+                    15. 21% Tax & Service <br>
+                    Dapatkan 15 fasilitas tersebut hanya dengan harga Rp7.000.000 saja dan nikmati liburanmu!
+                </p>
+            </article>
+        </section>
+        <aside>
+            <h3>Event Terbaru</h3>
+            <ul>
+                <li><a href="#">Dapatkan potongan harga pada akhir tahun</a></li>
+                <li><a href="#">Wisata murah hanya setengah harga khusus member</a></li>
+                <li><a href="#">Daftarkan diri kamu menjadi bagian kami dan dapatkan diskon sampai dengan 70%</a></li>
+            </ul>
+        </aside>
+    </main>
+    <footer>
+        <p>
+        Apakah kamu berminat? Ada pertanyaan? Silakan DM kami melalui: <a href="https://instagram.com/chtimexo?igshid=YmMyMTA2M2Y=">Instagram</a> <br>
+        &copy;2023 PT ABC. All right Reserved.
+        </p>
+    </footer>
+</body>
+</html>
